@@ -1,0 +1,36 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  background-color: #e9d9c4;
+}
+
+main {
+  margin: 0 30%;
+}
+
+#name {
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 2em;
+}
+
+.header {
+  text-align: center; 
+}
+
+hr {
+   border-bottom: 3px solid lightblue;
+}
+
+.subheading {
+  color: #D9792A;
+    font-size: 1.2em;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+.text {
+  font-size: 1.2em;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
